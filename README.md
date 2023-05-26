@@ -6,7 +6,7 @@ This Android application provides weather information based on the user's locati
 - Search Weather by Location: Users can search for weather information by entering a specific location.
 - 10 days forecast: App displays weather forescast for next 10 days.
 - API Integration: The app integrates with the api.weatherapi.com API to fetch real-time weather data.
-- 
+
 ## Technologies Used
 The Weather App is built using the following technologies:
 
