@@ -16,5 +16,5 @@ The Weather App is built using the following technologies:
 - Weather API: The app integrates with the api.weatherapi.com API to fetch weather data.
 
 ## Appearance
-<img src="https://github.com/olimpialewinska/WeatherApp/assets/100933608/0a67d397-3b4f-4aa2-a9b7-27ef329fdfb6" height="600" />
+<img src="https://github.com/olimpialewinska/WeatherApp/assets/100933608/602563c9-2898-4d63-b00a-ef095707d676" height="600"/>
 
